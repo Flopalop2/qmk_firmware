@@ -36,4 +36,4 @@ RGB_MATRIX_DRIVER = custom
 
 LAYOUTS = 65_ansi_blocker
 
-VIA_ENABLE = yes
+#VIA_ENABLE = yes
